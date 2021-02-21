@@ -10,12 +10,11 @@ Le joueur est le maire d'une commune contemporaine moyenne (5-10.000 habitants),
 
 Des évènements aléatoires peuvent apparaître :
 
-- pandémie
 - problème d'approvisionnement de nourriture
 - problèmes d'approvisionnement d'énergie
 - canicules
 - intempéries (tempêtes, crues/inondations, vague de froid...)
-- pandémie àa peut être H ou bétail
+- pandémie (H ou bétail)
 - maladie végétale
 - réfugiés climatiques
 
